@@ -1,0 +1,14 @@
+{
+  "name": "02-request-response",
+  "version": "1.0.0",
+  "description": "Simple request-response with inline callback functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "set DEBUG=02-request-response:* & nodemon index.js"
+  },
+  "author": "ywdeng",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
